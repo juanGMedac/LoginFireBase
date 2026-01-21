@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019089956628",
+    "project_id": "loginfirebase-3c886",
+    "storage_bucket": "loginfirebase-3c886.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019089956628:android:3b36199eb4e6e6d165dc01",
+        "android_client_info": {
+          "package_name": "es.medac.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019089956628-3mj50plncmouvd42vhms5socmh3hlobu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.medac.loginfirebase",
+            "certificate_hash": "3353b68075e8c6e5a2d5f8ca3bcb5e42091fb781"
+          }
+        },
+        {
+          "client_id": "1019089956628-pmujk41k63v1mbljrepki6o8ru5e2ebt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjGzzbgVtvXLDuaAUrCabj1c8RcygEI7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019089956628-pmujk41k63v1mbljrepki6o8ru5e2ebt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
